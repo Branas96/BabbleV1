@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f5bf62f4e22556448bef61c513280c77430eef0b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\braam\.android\build-cache\a3b56eb4996df5d70863b730170b59922981f7bc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\braam\.android\build-cache\a453d8a6ed9822e06866a9cff20197992c9bc03d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\braam\.android\build-cache\685ce1c2809475e1706d0a45606b74af703c566f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\braam\.android\build-cache\0d783db65c107fff7f614ef3d8212e3fed0001e9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\braam\.android\build-cache\e1600984b364328d45f6783e75fc7100f4d4a9ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\braam\.android\build-cache\2607ef9861074a8a7aeabf637eac9ca0d92d7e88\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\braam\.android\build-cache\4e459f7345017f8a415d5c35375afd3c7daa0f96\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f78167744eca7db9d1290bc196e145b59e546d73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\braam\.android\build-cache\83eafec9bb241266369f2bf649f54c355a097c4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\braam\.android\build-cache\d68bcef19ab789ba14e1d37ae137637ec5f1c8de\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:15:9-35
+	android:fullBackupContent
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:16:9-40
+activity#networks.computer.babble.Login
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:19:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f5bf62f4e22556448bef61c513280c77430eef0b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\braam\.android\build-cache\a3b56eb4996df5d70863b730170b59922981f7bc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\braam\.android\build-cache\a453d8a6ed9822e06866a9cff20197992c9bc03d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\braam\.android\build-cache\685ce1c2809475e1706d0a45606b74af703c566f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\braam\.android\build-cache\e1d51cf7c57e656fb60e7361c118aec0cbb85df8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\braam\.android\build-cache\0d783db65c107fff7f614ef3d8212e3fed0001e9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\braam\.android\build-cache\e1600984b364328d45f6783e75fc7100f4d4a9ec\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\braam\.android\build-cache\2607ef9861074a8a7aeabf637eac9ca0d92d7e88\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\braam\.android\build-cache\4e459f7345017f8a415d5c35375afd3c7daa0f96\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f78167744eca7db9d1290bc196e145b59e546d73\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\braam\.android\build-cache\83eafec9bb241266369f2bf649f54c355a097c4e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\braam\.android\build-cache\d68bcef19ab789ba14e1d37ae137637ec5f1c8de\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f5bf62f4e22556448bef61c513280c77430eef0b\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\braam\Desktop\Babble\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f5bf62f4e22556448bef61c513280c77430eef0b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\braam\.android\build-cache\a3b56eb4996df5d70863b730170b59922981f7bc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\braam\.android\build-cache\a453d8a6ed9822e06866a9cff20197992c9bc03d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\braam\.android\build-cache\685ce1c2809475e1706d0a45606b74af703c566f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\braam\.android\build-cache\e1d51cf7c57e656fb60e7361c118aec0cbb85df8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\braam\.android\build-cache\0d783db65c107fff7f614ef3d8212e3fed0001e9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\braam\.android\build-cache\e1600984b364328d45f6783e75fc7100f4d4a9ec\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\braam\.android\build-cache\2607ef9861074a8a7aeabf637eac9ca0d92d7e88\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\braam\.android\build-cache\4e459f7345017f8a415d5c35375afd3c7daa0f96\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f78167744eca7db9d1290bc196e145b59e546d73\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\braam\.android\build-cache\83eafec9bb241266369f2bf649f54c355a097c4e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\braam\.android\build-cache\d68bcef19ab789ba14e1d37ae137637ec5f1c8de\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f5bf62f4e22556448bef61c513280c77430eef0b\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\braam\.android\build-cache\f5bf62f4e22556448bef61c513280c77430eef0b\output\AndroidManifest.xml:26:9-47
