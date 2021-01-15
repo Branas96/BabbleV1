@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\braam\\Desktop\\Babble\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\braam\\.android\\build-cache\\a3b56eb4996df5d70863b730170b59922981f7bc\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\braam\\Desktop\\Babble\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\braam\\.android\\build-cache\\a3b56eb4996df5d70863b730170b59922981f7bc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\braam\\Desktop\\Babble\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\braam\\.android\\build-cache\\a3b56eb4996df5d70863b730170b59922981f7bc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\braam\\Desktop\\Babble\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\braam\\.android\\build-cache\\a3b56eb4996df5d70863b730170b59922981f7bc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
